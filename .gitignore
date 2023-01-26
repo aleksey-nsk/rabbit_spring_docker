@@ -1,0 +1,25 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting   # Ignore Gradle GUI config
+!gradle-wrapper.jar  # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+.gradletasknamecache # Cache of project
+
+# Maven
+log/
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
