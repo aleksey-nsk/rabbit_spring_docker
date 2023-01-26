@@ -103,6 +103,6 @@ Name: queue1
 `"routingKey": отличный от значения "testRoutingKey"`, то наш Consumer не получит
 это сообщение из очереди, поскольку он получает только сообщения с routingKey = testRoutingKey
 
-# Источники
+# Использованные источники
 
-Статья на Хабре https://habr.com/ru/post/703352/
+- [Статья](https://habr.com/ru/post/703352/) на Хабре

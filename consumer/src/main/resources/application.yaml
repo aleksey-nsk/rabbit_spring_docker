@@ -1,0 +1,10 @@
+# На каком порту стартует Consumer
+server:
+    port: 8088
+
+# Настройки логирования Consumer-а
+logging:
+    level:
+        com.example.consumer: debug
+    file:
+        name: logs/consumer.log

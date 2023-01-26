@@ -1,0 +1,10 @@
+# На каком порту стартует Producer
+server:
+    port: 8089
+
+# Настройки логирования Producer-а
+logging:
+    level:
+        com.example.producer: debug
+    file:
+        name: logs/producer.log
